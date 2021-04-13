@@ -1708,7 +1708,7 @@ input:focus, textarea:focus, select:focus, button:focus {
    color: black;
 
 }
-.service-list-name{
+.serviceListName{
 	font-size: 12px;
 	font-family: 'impact';
 	color:black;
